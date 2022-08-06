@@ -1,4 +1,4 @@
-# Promises Vs Async Await
+# Promises
 
 What is a promise?
 
@@ -21,6 +21,8 @@ A Promise is in one of these states:
 [Basics](https://javascript.info/promise-basics "Basics")
 
 [W3 Schools](https://www.w3schools.com/js/js_promise.asp "W3 Schools")
+
+# Async Await
 
 What is `aysnc` `await` ?
 
